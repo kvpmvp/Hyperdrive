@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@txnlab/use-wallet-react": "^4.3.1",
+    "algosdk": "^3.5.0"
+  }
+}
